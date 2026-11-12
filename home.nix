@@ -21,7 +21,7 @@
     settings = {
       user = {
         name = "Jacob Turner";
-        email = "your.email@example.com"; # Replace with your actual email
+        email = "turnerjac01@gmail.com";
       };
       github = {
         user = "jacobdt23";
