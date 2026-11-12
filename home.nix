@@ -21,7 +21,7 @@
     settings = {
       user = {
         name = "Jacob Turner";
-        email = "turnerjac01@gmail.com";
+        email = "turnejac01@gmail.com";
       };
       github = {
         user = "jacobdt23";
